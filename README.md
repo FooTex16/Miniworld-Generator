@@ -1,5 +1,8 @@
 Miniworld Generator
 
+Download Miniworld Generator
+https://github.com/FooTex16/Miniworld-Generator/releases
+
 Drububu Voxel [vox converter]
 https://drububu.com/miscellaneous/voxelizer/index.html?out=vox
 
