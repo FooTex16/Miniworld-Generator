@@ -1,5 +1,8 @@
 Miniworld Generator
 
+Inspiration from Chanel [VazkiiMod]
+https://www.youtube.com/watch?v=8sB764VTtms
+
 Download Miniworld Generator
 https://github.com/FooTex16/Miniworld-Generator/releases
 
